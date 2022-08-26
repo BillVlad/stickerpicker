@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "masuna_vk.json",
+    "usagichivk.json"
+  ],
+  "homeserver_url": "https://matrix.sibnsk.net"
+}
