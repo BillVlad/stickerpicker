@@ -3,7 +3,8 @@
     "masuna_vk.json",
     "usagichivk.json",
     "ladyai.json",
-    "mintyvk.json"
+    "mintyvk.json",
+    "dinvk.json"
   ],
   "homeserver_url": "https://matrix.sibnsk.net"
 }
